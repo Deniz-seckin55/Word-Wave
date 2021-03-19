@@ -1,4 +1,4 @@
-# word Wave
+# Word Wave
 This program makes your line *wawey!*
 How To Use:
   1 - Download and open the program.
